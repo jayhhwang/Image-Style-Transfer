@@ -1,4 +1,4 @@
-# Image-Style-Transfer
+# Image Style Transfer
 
 Input Image:
 
